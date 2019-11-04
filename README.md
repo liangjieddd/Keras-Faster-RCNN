@@ -1,2 +1,2 @@
 # Keras-Faster-RCNN
-Keras
+The implementation of the Faster R-CNN with Keras
